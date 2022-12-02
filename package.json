@@ -27,6 +27,7 @@
     "@parcel/transformer-sass": "^2.8.0",
     "axios": "^1.2.0",
     "buffer": "^5.7.1",
+    "lodash.debounce": "^4.0.8",
     "notiflix": "^3.2.5",
     "parcel": "^2.8.0",
     "parcel-reporter-clean-dist": "^1.0.4",
